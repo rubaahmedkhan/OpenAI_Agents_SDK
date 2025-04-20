@@ -1,11 +1,13 @@
-```uv init helloworld```
+uv init helloworld
 
-```cd helloworld
+cd helloworld
 
-``uv venv
+uv venv
+
+
 On Mac:
-
 source .venv/bin/activate
+
 Let’s create a .gitignore file at the root of our project, and add this simple line:
 
 .venv
